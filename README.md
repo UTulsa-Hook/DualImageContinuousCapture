@@ -1,2 +1,2 @@
-# MatrixVision
-This will house the software written to interface with the MatrixVision cameras
+# Dual Image Continuous Capture
+This software will contually capture stereo image pairs until canceled with ^C
