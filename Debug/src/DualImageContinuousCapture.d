@@ -1,16 +1,16 @@
 src/DualImageContinuousCapture.d: ../src/DualImageContinuousCapture.cpp \
- /opt/mvIMPACT_acquire/mvIMPACT_CPP/mvIMPACT_acquire.h \
- /opt/mvIMPACT_acquire/mvDeviceManager/Include/mvDeviceManager.h \
- /opt/mvIMPACT_acquire/DriverBase/Include/mvDriverBaseEnums.h \
- /opt/mvIMPACT_acquire/DriverBase/Include/mvVersionInfo.h \
- /opt/mvIMPACT_acquire/mvPropHandling/Include/mvPropHandlingDatatypes.h
+ /home/zkirkendoll/workspace/DualImageContinuousCapture/mvIMPACT_CPP/mvIMPACT_acquire.h \
+ /home/zkirkendoll/workspace/DualImageContinuousCapture/mvDeviceManager/Include/mvDeviceManager.h \
+ /home/zkirkendoll/workspace/DualImageContinuousCapture/DriverBase/Include/mvDriverBaseEnums.h \
+ /home/zkirkendoll/workspace/DualImageContinuousCapture/DriverBase/Include/mvVersionInfo.h \
+ /home/zkirkendoll/workspace/DualImageContinuousCapture/mvPropHandling/Include/mvPropHandlingDatatypes.h
 
-/opt/mvIMPACT_acquire/mvIMPACT_CPP/mvIMPACT_acquire.h:
+/home/zkirkendoll/workspace/DualImageContinuousCapture/mvIMPACT_CPP/mvIMPACT_acquire.h:
 
-/opt/mvIMPACT_acquire/mvDeviceManager/Include/mvDeviceManager.h:
+/home/zkirkendoll/workspace/DualImageContinuousCapture/mvDeviceManager/Include/mvDeviceManager.h:
 
-/opt/mvIMPACT_acquire/DriverBase/Include/mvDriverBaseEnums.h:
+/home/zkirkendoll/workspace/DualImageContinuousCapture/DriverBase/Include/mvDriverBaseEnums.h:
 
-/opt/mvIMPACT_acquire/DriverBase/Include/mvVersionInfo.h:
+/home/zkirkendoll/workspace/DualImageContinuousCapture/DriverBase/Include/mvVersionInfo.h:
 
-/opt/mvIMPACT_acquire/mvPropHandling/Include/mvPropHandlingDatatypes.h:
+/home/zkirkendoll/workspace/DualImageContinuousCapture/mvPropHandling/Include/mvPropHandlingDatatypes.h:

@@ -44,7 +44,7 @@ all: DualImageContinuousCapture
 DualImageContinuousCapture: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C++ Linker'
-	g++ -L/opt/mvIMPACT_acquire/lib/x86_64 -o "DualImageContinuousCapture" $(OBJS) $(USER_OBJS) $(LIBS)
+	g++ -L"/home/zkirkendoll/workspace/DualImageContinuousCapture/lib/x86_64" -o "DualImageContinuousCapture" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
